@@ -1,0 +1,24 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PDV - Yama Mogi",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "YAMA PRINT",
+  "start_url": "https://script.google.com/macros/s/AKfycbyZDotFjO4y4-ns1zU7AZa1tlToDEv1YPI6e8UFjzCE5UtdZT4gMnIZXYAtsBxGYkKVuw/exec",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/mrenanpx/app-yama-print.js/main/logo2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/mrenanpx/app-yama-print.js/main/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "pt"
+}
