@@ -10,12 +10,12 @@
   "theme_color": "#0d6efd",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/mrenanpx/app-yama-print.js/main/logo2.png",
+      "src": "https://raw.githubusercontent.com/mrenanpx/pdv-mogi.js/main/logo4.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/mrenanpx/app-yama-print.js/main/logo.png",
+      "src": "https://raw.githubusercontent.com/mrenanpx/pdv-mogi.js/main/logo3.png",
       "sizes": "512x512",
       "type": "image/png"
     }
