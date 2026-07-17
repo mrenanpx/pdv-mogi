@@ -4,9 +4,10 @@
   "display": "standalone",
   "name": "PDV - Yama Mogi",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/pdv-mogi/",
+  "id": "/pdv-mogi/",
   "short_name": "YAMA PRINT",
-  "start_url": "https://script.google.com/macros/s/AKfycbyZDotFjO4y4-ns1zU7AZa1tlToDEv1YPI6e8UFjzCE5UtdZT4gMnIZXYAtsBxGYkKVuw/exec",
+  "start_url": "https://mrenanpx.github.io/pdv-mogi/",
   "theme_color": "#0d6efd",
   "icons": [
     {
